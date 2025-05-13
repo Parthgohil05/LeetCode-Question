@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1013-fibonacci-number) |
@@ -24,5 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
