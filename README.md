@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Array
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
