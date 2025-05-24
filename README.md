@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
