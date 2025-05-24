@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0067-add-binary) |
+| [3194-find-words-containing-character](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1677-matrix-diagonal-sum) |
+| [3194-find-words-containing-character](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3321-type-of-triangle) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
