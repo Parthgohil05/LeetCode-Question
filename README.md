@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1013-fibonacci-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0898-transpose-matrix) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
