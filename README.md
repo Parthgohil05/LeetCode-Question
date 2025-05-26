@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1013-fibonacci-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
