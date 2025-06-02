@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0135-candy) |
 | [0566-reshape-the-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0792-binary-search) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0135-candy) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
