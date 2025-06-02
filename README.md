@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1013-fibonacci-number) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
