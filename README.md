@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1677-matrix-diagonal-sum) |
 | [3194-find-words-containing-character](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3194-find-words-containing-character) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Linked List
 |  |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0206-reverse-linked-list) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
