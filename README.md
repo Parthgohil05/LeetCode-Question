@@ -145,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
