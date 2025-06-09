@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3321-type-of-triangle) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3194-find-words-containing-character](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3321-type-of-triangle) |
@@ -159,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0232-implement-queue-using-stacks) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
