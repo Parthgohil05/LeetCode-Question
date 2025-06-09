@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0135-candy) |
+| [0890-lemonade-change](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0890-lemonade-change) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
