@@ -19,6 +19,6 @@ class Solution {
             return root;
         }
        }
-       return null 
+       return null;
     }
 }
