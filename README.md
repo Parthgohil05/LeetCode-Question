@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Parthgohil05/LeetCode-Question/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Parthgohil05/LeetCode-Question/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Linked List
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Parthgohil05/LeetCode-Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
